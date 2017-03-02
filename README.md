@@ -1,1 +1,1 @@
-# jdash-ui
+# jdash client library
