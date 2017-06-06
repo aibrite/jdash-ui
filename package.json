@@ -1,6 +1,6 @@
 {
     "name": "jdash-ui",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "jdash client library",
     "main": "dist/jdash.min.js",
     "types": "dist/definitions/index.d.ts",
